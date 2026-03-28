@@ -121,8 +121,8 @@ public
 			function10: abstract DVFeatures::Function10;
 			function11 : abstract DVFeatures::Function11;
 			function12 : abstract DVFeatures::Function12;
-			function14 : abstract DVFeatures::Function13;
-			function15: abstract DVFeatures::Function14;
+			function13 : abstract DVFeatures::Function13;
+			function14: abstract DVFeatures::Function14;
 				
 		properties
 			Validation_Property::ToleranceMargin => 1;
@@ -180,8 +180,8 @@ public
 			function10: abstract DVFeatures::Function10;
 			function11 : abstract DVFeatures::Function11;
 			function12 : abstract DVFeatures::Function12;
-			function14 : abstract DVFeatures::Function13;
-			function15: abstract DVFeatures::Function14;			
+			function13 : abstract DVFeatures::Function13;
+			function14: abstract DVFeatures::Function14;			
 		properties
 			Validation_Property::ToleranceMargin => 1;
 			Validation_Property::ReachSpeedValid => 1;
@@ -320,8 +320,8 @@ public
 			function10: abstract DVFeatures::Function10;
 			function11 : abstract DVFeatures::Function11;
 			function12 : abstract DVFeatures::Function12;
-			function14 : abstract DVFeatures::Function13;
-			function15: abstract DVFeatures::Function14;
+			function13 : abstract DVFeatures::Function13;
+			function14: abstract DVFeatures::Function14;
 		properties
 			Validation_Property::ToleranceMargin => 1;
 			Validation_Property::ReachSpeedValid => 1;
