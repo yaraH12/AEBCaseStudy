@@ -1,4 +1,4 @@
-assurance case DynamicVehicleAEB2g for DynamicVehicle::VehicleDynamicStandalone [
+assurance case DynamicVehicleAEB2 for DynamicVehicle::VehicleDynamicStandalone [
 	
 
 	assurance plan DynamicVehicleV2_AP for DynamicVehicle::VehicleDynamicv2.Impl [
