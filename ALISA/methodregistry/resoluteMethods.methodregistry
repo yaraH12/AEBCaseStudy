@@ -3,7 +3,6 @@ verification methods resoluteMethods [
 	method ModelInterfacesList(component):
 	"What are the in/out interfaces of the model"[
 		resolute ReadingtheModel.ReadingtheModel_public.Resolute.Resolute.ModelsInterfaces
-		//resolute ReadingtheModel.ReadingtheModel_public.Resolute.Resolute.get_Feature.subname
 	]
 	
 	method ModelSubComponentsList():
@@ -79,11 +78,7 @@ verification methods resoluteMethods [
 	"Check that there is no less interfaces than required"[
 		resolute ReadingtheModel.ReadingtheModel_public.Resolute.Resolute.no_less_Interfaces
 	]
-	///////////////////////////////////MIC//////////////////////////////////////////
-	/*method isValid (component):
-	"Check the validity range of the model"[
-		resolute ReadingtheModel.ReadingtheModel_public.Resolute.Resolute.is_valid
-	]*/
+	
 ]
 		 
 
