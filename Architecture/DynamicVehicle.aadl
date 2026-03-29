@@ -141,8 +141,90 @@ public
 	-- DV variant 1 : No ADAS 
 	---------------------------------------------------------------------------------------
 	
-	abstract VehicleDynamicv1 extends VehicleDynamicStandalone
-		properties
+	abstract VehicleDynamicv1 
+		features
+			--inputs
+			in001: in feature Custom_Types::CustomBoolean0 ;
+			in002: in feature Custom_Types::CustomNm0;
+			in003: in feature Custom_Types::CustomBoolean0;
+			in004: in feature Custom_Types::CustomNm0;
+			in005: in feature Custom_Types::CustomBoolean0;
+			in006: in feature Custom_Types::CustomDegree0;
+			in007: in feature Custom_Types::CustomModeEnum;
+			in008: in feature Custom_Types::CustomBoolean0;
+			in009: in feature Custom_Types::CustomBoolean0;
+			in010: in feature Custom_Types::CustomNm0;
+			in011: in feature Custom_Types::CustomBoolean0;
+			in012: in feature Custom_Types::CustomNm0;
+			in013: in feature Custom_Types::CustomBoolean0;
+			in014: in feature Custom_Types::CustomBoolean0;
+			in015: in feature Custom_Types::CustomNm0;
+			in016: in feature Custom_Types::CustomBoolean0;
+			in017: in feature Custom_Types::CustomDouble0;
+			in018: in feature Custom_Types::CustomBoolean0;
+			in019: in feature Custom_Types::CustomDouble1 ;
+			in020: in feature Custom_Types::CustomBoolean0; 
+			in021: in feature Custom_Types::CustomMS20;
+			in022: in feature Custom_Types::CustomDouble1;
+			in029: in feature Custom_Types::CustomDegree0;
+			in030: in feature Custom_Types::CustomDouble1;
+			--outputs
+			out001: out feature Custom_Types::CustomNm;
+			out002: out feature Custom_Types::CustomNm;
+			out003: out feature Custom_Types::CustomNm;
+			out004: out feature Custom_Types::CustomNm;
+			out005: out feature Custom_Types::CustomNm;
+			out006: out feature Custom_Types::CustomPercentage;
+			out007: out feature Custom_Types::CustomPercentage;
+			out008: out feature Custom_Types::CustomNm;
+			out009: out feature Custom_Types::CustomBoolean;
+			out010: out feature Custom_Types::CustomNm;
+			out011: out feature Custom_Types::CustomBoolean;
+			out012: out feature Custom_Types::CustomDegree;
+			out013: out feature Custom_Types::CustomDegree;
+			out014: out feature Custom_Types::CustomDegree;
+			out015: out feature Custom_Types::CustomNm;
+			out016: out feature Custom_Types::CustomBoolean;
+			out017: out feature Custom_Types::CustomDegree;
+			out018: out feature Custom_Types::CustomMS;
+			out019: out feature Custom_Types::CustomNm;
+			out020: out feature Custom_Types::CustomNm;
+			out021: out feature Custom_Types::CustomNm;
+			out022: out feature Custom_Types::CustomNm;
+			out023: out feature Custom_Types::CustomBoolean;
+			out024: out feature Custom_Types::CustomNm;
+			out025: out feature Custom_Types::CustomRADperS;
+			out026: out feature Custom_Types::CustomRADperS;
+			out027: out feature Custom_Types::CustomRADperS;
+			out028: out feature Custom_Types::CustomRADperS;
+			out029: out feature Custom_Types::CustomBar;
+			out030: out feature Custom_Types::CustomBar;
+			out031: out feature Custom_Types::CustomBar;
+			out032: out feature Custom_Types::CustomBar;
+			out033: out feature Custom_Types::CustomBar;
+			out034: out feature Custom_Types::CustomBoolean;
+			out035: out feature Custom_Types::CustomBoolean;
+			out036: out feature Custom_Types::CustomBoolean;
+			out037: out feature Custom_Types::CustomBoolean;
+			out042: out feature Custom_Types::CustomDouble;
+			out043: out feature Custom_Types::CustomDouble;
+			out044: out feature Custom_Types::CustomBoolean;
+			out045: out feature Custom_Types::CustomRAD;
+			out046: out feature Custom_Types::CustomRAD;
+			out047: out feature Custom_Types::CustomRAD;
+			out048: out feature Custom_Types::CustomMS;
+			out049: out feature Custom_Types::CustomMS2;
+			out050: out feature Custom_Types::CustomBar;
+			out051: out feature Custom_Types::CustomDouble;
+			out052: out feature Custom_Types::CustomMS2;	
+			
+			properties
+			Simulator_Property::SimulatorName => 1 ;
+			Simulator_Property::SimulatorVersion => 2304;
+			Simulator_Property::OSAdapted => 1 ;
+			Simulator_Property::NRT => 1 ;
+			Simulator_Property::PathsTypes => 1;
+			Maturity_Property::Complexity => 3;
 			Verification_Property::Standalone => 1;
 			Verification_Property::ADAS => 0;
 			Verification_Property::VehicleType => 1;
@@ -156,8 +238,6 @@ public
 			Verification_Property::TiresDimensions_aspectratio => 60 ;
 			Verification_Property::TiresDimensions_rimdiameter => 16 ;
 			Verification_Property::TiresPressure => 2.5 ;
-			Validation_Property::ModerateBreakingValid => 0;
-			Validation_Property::FullBreakingValid => 0;
 			Verification_Property::TechnicalChecKCovered => 0;
 			Verification_Property::VehicleTotalMass => 1715 ;
 			Verification_Property::FrontMassDistribution => 51 ;

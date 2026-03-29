@@ -71,172 +71,172 @@
     <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.3/@ownedPropertyAssociation.9"/>
   </ownedPropertyAssociation>
   <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.Standalone"/>
+    <property href="../../Properties/Simulator_Properties.aadl#Simulator_Property.SimulatorName"/>
     <ownedValue>
       <ownedValue xsi:type="aadl2:IntegerLiteral" value="1"/>
     </ownedValue>
     <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.0"/>
   </ownedPropertyAssociation>
   <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.ADAS"/>
-    <ownedValue>
-      <ownedValue xsi:type="aadl2:IntegerLiteral"/>
-    </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.1"/>
-  </ownedPropertyAssociation>
-  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.VehicleType"/>
-    <ownedValue>
-      <ownedValue xsi:type="aadl2:IntegerLiteral" value="1"/>
-    </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.2"/>
-  </ownedPropertyAssociation>
-  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.EngineType"/>
-    <ownedValue>
-      <ownedValue xsi:type="aadl2:IntegerLiteral" value="2"/>
-    </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.3"/>
-  </ownedPropertyAssociation>
-  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.TT100Correlated"/>
-    <ownedValue>
-      <ownedValue xsi:type="aadl2:IntegerLiteral" value="1"/>
-    </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.4"/>
-  </ownedPropertyAssociation>
-  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.TTLCorrelated"/>
-    <ownedValue>
-      <ownedValue xsi:type="aadl2:IntegerLiteral" value="1"/>
-    </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.5"/>
-  </ownedPropertyAssociation>
-  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.Frequency"/>
-    <ownedValue>
-      <ownedValue xsi:type="aadl2:IntegerLiteral" value="100"/>
-    </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.6"/>
-  </ownedPropertyAssociation>
-  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.TiresBrand"/>
-    <ownedValue>
-      <ownedValue xsi:type="aadl2:IntegerLiteral" value="1"/>
-    </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.7"/>
-  </ownedPropertyAssociation>
-  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.TiresModel"/>
-    <ownedValue>
-      <ownedValue xsi:type="aadl2:IntegerLiteral" value="1"/>
-    </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.8"/>
-  </ownedPropertyAssociation>
-  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.TiresDimensions_width"/>
-    <ownedValue>
-      <ownedValue xsi:type="aadl2:IntegerLiteral" value="195"/>
-    </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.9"/>
-  </ownedPropertyAssociation>
-  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.TiresDimensions_aspectratio"/>
-    <ownedValue>
-      <ownedValue xsi:type="aadl2:IntegerLiteral" value="60"/>
-    </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.10"/>
-  </ownedPropertyAssociation>
-  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.TiresDimensions_rimdiameter"/>
-    <ownedValue>
-      <ownedValue xsi:type="aadl2:IntegerLiteral" value="16"/>
-    </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.11"/>
-  </ownedPropertyAssociation>
-  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.TiresPressure"/>
-    <ownedValue>
-      <ownedValue xsi:type="aadl2:RealLiteral" value="2.5"/>
-    </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.12"/>
-  </ownedPropertyAssociation>
-  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.VehicleTotalMass"/>
-    <ownedValue>
-      <ownedValue xsi:type="aadl2:IntegerLiteral" value="1715"/>
-    </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.16"/>
-  </ownedPropertyAssociation>
-  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.FrontMassDistribution"/>
-    <ownedValue>
-      <ownedValue xsi:type="aadl2:IntegerLiteral" value="51"/>
-    </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.17"/>
-  </ownedPropertyAssociation>
-  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.RearMassDistribution"/>
-    <ownedValue>
-      <ownedValue xsi:type="aadl2:IntegerLiteral" value="49"/>
-    </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.18"/>
-  </ownedPropertyAssociation>
-  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Simulator_Properties.aadl#Simulator_Property.CompatibilitySimTool2"/>
-    <ownedValue>
-      <ownedValue xsi:type="aadl2:IntegerLiteral"/>
-    </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.19"/>
-  </ownedPropertyAssociation>
-  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Simulator_Properties.aadl#Simulator_Property.Instantiable"/>
-    <ownedValue>
-      <ownedValue xsi:type="aadl2:IntegerLiteral"/>
-    </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.20"/>
-  </ownedPropertyAssociation>
-  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-    <property href="../../Properties/Simulator_Properties.aadl#Simulator_Property.SimulatorName"/>
-    <ownedValue>
-      <ownedValue xsi:type="aadl2:IntegerLiteral" value="1"/>
-    </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedPropertyAssociation.0"/>
-  </ownedPropertyAssociation>
-  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
     <property href="../../Properties/Simulator_Properties.aadl#Simulator_Property.SimulatorVersion"/>
     <ownedValue>
       <ownedValue xsi:type="aadl2:IntegerLiteral" value="2304"/>
     </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedPropertyAssociation.1"/>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.1"/>
   </ownedPropertyAssociation>
   <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
     <property href="../../Properties/Simulator_Properties.aadl#Simulator_Property.OSAdapted"/>
     <ownedValue>
       <ownedValue xsi:type="aadl2:IntegerLiteral" value="1"/>
     </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedPropertyAssociation.3"/>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.2"/>
   </ownedPropertyAssociation>
   <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
     <property href="../../Properties/Simulator_Properties.aadl#Simulator_Property.NRT"/>
     <ownedValue>
       <ownedValue xsi:type="aadl2:IntegerLiteral" value="1"/>
     </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedPropertyAssociation.4"/>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.3"/>
   </ownedPropertyAssociation>
   <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
     <property href="../../Properties/Simulator_Properties.aadl#Simulator_Property.PathsTypes"/>
     <ownedValue>
       <ownedValue xsi:type="aadl2:IntegerLiteral" value="1"/>
     </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedPropertyAssociation.6"/>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.4"/>
   </ownedPropertyAssociation>
   <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
     <property href="../../Properties/Maturity_Properties.aadl#Maturity_Property.Complexity"/>
     <ownedValue>
       <ownedValue xsi:type="aadl2:IntegerLiteral" value="3"/>
     </ownedValue>
-    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedPropertyAssociation.7"/>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.5"/>
+  </ownedPropertyAssociation>
+  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
+    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.Standalone"/>
+    <ownedValue>
+      <ownedValue xsi:type="aadl2:IntegerLiteral" value="1"/>
+    </ownedValue>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.6"/>
+  </ownedPropertyAssociation>
+  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
+    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.ADAS"/>
+    <ownedValue>
+      <ownedValue xsi:type="aadl2:IntegerLiteral"/>
+    </ownedValue>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.7"/>
+  </ownedPropertyAssociation>
+  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
+    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.VehicleType"/>
+    <ownedValue>
+      <ownedValue xsi:type="aadl2:IntegerLiteral" value="1"/>
+    </ownedValue>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.8"/>
+  </ownedPropertyAssociation>
+  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
+    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.EngineType"/>
+    <ownedValue>
+      <ownedValue xsi:type="aadl2:IntegerLiteral" value="2"/>
+    </ownedValue>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.9"/>
+  </ownedPropertyAssociation>
+  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
+    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.TT100Correlated"/>
+    <ownedValue>
+      <ownedValue xsi:type="aadl2:IntegerLiteral" value="1"/>
+    </ownedValue>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.10"/>
+  </ownedPropertyAssociation>
+  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
+    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.TTLCorrelated"/>
+    <ownedValue>
+      <ownedValue xsi:type="aadl2:IntegerLiteral" value="1"/>
+    </ownedValue>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.11"/>
+  </ownedPropertyAssociation>
+  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
+    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.Frequency"/>
+    <ownedValue>
+      <ownedValue xsi:type="aadl2:IntegerLiteral" value="100"/>
+    </ownedValue>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.12"/>
+  </ownedPropertyAssociation>
+  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
+    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.TiresBrand"/>
+    <ownedValue>
+      <ownedValue xsi:type="aadl2:IntegerLiteral" value="1"/>
+    </ownedValue>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.13"/>
+  </ownedPropertyAssociation>
+  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
+    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.TiresModel"/>
+    <ownedValue>
+      <ownedValue xsi:type="aadl2:IntegerLiteral" value="1"/>
+    </ownedValue>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.14"/>
+  </ownedPropertyAssociation>
+  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
+    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.TiresDimensions_width"/>
+    <ownedValue>
+      <ownedValue xsi:type="aadl2:IntegerLiteral" value="195"/>
+    </ownedValue>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.15"/>
+  </ownedPropertyAssociation>
+  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
+    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.TiresDimensions_aspectratio"/>
+    <ownedValue>
+      <ownedValue xsi:type="aadl2:IntegerLiteral" value="60"/>
+    </ownedValue>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.16"/>
+  </ownedPropertyAssociation>
+  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
+    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.TiresDimensions_rimdiameter"/>
+    <ownedValue>
+      <ownedValue xsi:type="aadl2:IntegerLiteral" value="16"/>
+    </ownedValue>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.17"/>
+  </ownedPropertyAssociation>
+  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
+    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.TiresPressure"/>
+    <ownedValue>
+      <ownedValue xsi:type="aadl2:RealLiteral" value="2.5"/>
+    </ownedValue>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.18"/>
+  </ownedPropertyAssociation>
+  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
+    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.VehicleTotalMass"/>
+    <ownedValue>
+      <ownedValue xsi:type="aadl2:IntegerLiteral" value="1715"/>
+    </ownedValue>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.20"/>
+  </ownedPropertyAssociation>
+  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
+    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.FrontMassDistribution"/>
+    <ownedValue>
+      <ownedValue xsi:type="aadl2:IntegerLiteral" value="51"/>
+    </ownedValue>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.21"/>
+  </ownedPropertyAssociation>
+  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
+    <property href="../../Properties/Verification_Properties.aadl#Verification_Property.RearMassDistribution"/>
+    <ownedValue>
+      <ownedValue xsi:type="aadl2:IntegerLiteral" value="49"/>
+    </ownedValue>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.22"/>
+  </ownedPropertyAssociation>
+  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
+    <property href="../../Properties/Simulator_Properties.aadl#Simulator_Property.CompatibilitySimTool2"/>
+    <ownedValue>
+      <ownedValue xsi:type="aadl2:IntegerLiteral"/>
+    </ownedValue>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.23"/>
+  </ownedPropertyAssociation>
+  <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
+    <property href="../../Properties/Simulator_Properties.aadl#Simulator_Property.Instantiable"/>
+    <ownedValue>
+      <ownedValue xsi:type="aadl2:IntegerLiteral"/>
+    </ownedValue>
+    <propertyAssociation href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.24"/>
   </ownedPropertyAssociation>
   <featureInstance name="in001" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -257,7 +257,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.4/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.0"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.0"/>
   </featureInstance>
   <featureInstance name="in002" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -285,7 +285,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.9/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.1"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.1"/>
   </featureInstance>
   <featureInstance name="in003" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -306,7 +306,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.4/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.2"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.2"/>
   </featureInstance>
   <featureInstance name="in004" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -334,7 +334,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.9/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.3"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.3"/>
   </featureInstance>
   <featureInstance name="in005" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -355,7 +355,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.4/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.4"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.4"/>
   </featureInstance>
   <featureInstance name="in006" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -383,7 +383,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.11/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.5"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.5"/>
   </featureInstance>
   <featureInstance name="in007" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -415,7 +415,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.7/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.6"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.6"/>
   </featureInstance>
   <featureInstance name="in008" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -436,7 +436,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.4/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.7"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.7"/>
   </featureInstance>
   <featureInstance name="in009" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -457,7 +457,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.4/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.8"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.8"/>
   </featureInstance>
   <featureInstance name="in010" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -485,7 +485,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.9/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.9"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.9"/>
   </featureInstance>
   <featureInstance name="in011" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -506,7 +506,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.4/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.10"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.10"/>
   </featureInstance>
   <featureInstance name="in012" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -534,7 +534,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.9/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.11"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.11"/>
   </featureInstance>
   <featureInstance name="in013" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -555,7 +555,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.4/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.12"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.12"/>
   </featureInstance>
   <featureInstance name="in014" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -576,7 +576,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.4/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.13"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.13"/>
   </featureInstance>
   <featureInstance name="in015" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -604,7 +604,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.9/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.14"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.14"/>
   </featureInstance>
   <featureInstance name="in016" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -625,7 +625,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.4/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.15"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.15"/>
   </featureInstance>
   <featureInstance name="in017" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -646,7 +646,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.5/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.16"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.16"/>
   </featureInstance>
   <featureInstance name="in018" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -667,7 +667,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.4/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.17"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.17"/>
   </featureInstance>
   <featureInstance name="in019" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -688,7 +688,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.6/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.18"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.18"/>
   </featureInstance>
   <featureInstance name="in020" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -709,7 +709,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.4/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.19"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.19"/>
   </featureInstance>
   <featureInstance name="in021" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -737,7 +737,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.12/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.20"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.20"/>
   </featureInstance>
   <featureInstance name="in022" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -758,154 +758,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.6/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.21"/>
-  </featureInstance>
-  <featureInstance name="in023" category="abstractFeature">
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Data_Representation"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:NamedValue">
-          <namedValue xsi:type="aadl2:EnumerationLiteral" href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#/0/@ownedProperty.4/@ownedPropertyType/@ownedLiteral.4"/>
-        </ownedValue>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.11/@ownedPropertyAssociation.0"/>
-    </ownedPropertyAssociation>
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Initial_Value"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:ListValue">
-          <ownedListElement xsi:type="aadl2:StringLiteral" value="'0'"/>
-        </ownedValue>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.11/@ownedPropertyAssociation.2"/>
-    </ownedPropertyAssociation>
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Measurement_Unit"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:StringLiteral" value="'degree'"/>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.11/@ownedPropertyAssociation.1"/>
-    </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.22"/>
-  </featureInstance>
-  <featureInstance name="in024" category="abstractFeature">
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Data_Representation"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:NamedValue">
-          <namedValue xsi:type="aadl2:EnumerationLiteral" href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#/0/@ownedProperty.4/@ownedPropertyType/@ownedLiteral.1"/>
-        </ownedValue>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.4/@ownedPropertyAssociation.0"/>
-    </ownedPropertyAssociation>
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Initial_Value"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:ListValue">
-          <ownedListElement xsi:type="aadl2:StringLiteral" value="'0'"/>
-        </ownedValue>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.4/@ownedPropertyAssociation.1"/>
-    </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.23"/>
-  </featureInstance>
-  <featureInstance name="in025" category="abstractFeature">
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Data_Representation"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:NamedValue">
-          <namedValue xsi:type="aadl2:EnumerationLiteral" href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#/0/@ownedProperty.4/@ownedPropertyType/@ownedLiteral.4"/>
-        </ownedValue>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.11/@ownedPropertyAssociation.0"/>
-    </ownedPropertyAssociation>
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Initial_Value"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:ListValue">
-          <ownedListElement xsi:type="aadl2:StringLiteral" value="'0'"/>
-        </ownedValue>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.11/@ownedPropertyAssociation.2"/>
-    </ownedPropertyAssociation>
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Measurement_Unit"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:StringLiteral" value="'degree'"/>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.11/@ownedPropertyAssociation.1"/>
-    </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.24"/>
-  </featureInstance>
-  <featureInstance name="in026" category="abstractFeature">
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Data_Representation"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:NamedValue">
-          <namedValue xsi:type="aadl2:EnumerationLiteral" href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#/0/@ownedProperty.4/@ownedPropertyType/@ownedLiteral.4"/>
-        </ownedValue>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.6/@ownedPropertyAssociation.0"/>
-    </ownedPropertyAssociation>
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Initial_Value"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:ListValue">
-          <ownedListElement xsi:type="aadl2:StringLiteral" value="'1'"/>
-        </ownedValue>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.6/@ownedPropertyAssociation.1"/>
-    </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.25"/>
-  </featureInstance>
-  <featureInstance name="in027" category="abstractFeature">
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Data_Representation"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:NamedValue">
-          <namedValue xsi:type="aadl2:EnumerationLiteral" href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#/0/@ownedProperty.4/@ownedPropertyType/@ownedLiteral.1"/>
-        </ownedValue>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.4/@ownedPropertyAssociation.0"/>
-    </ownedPropertyAssociation>
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Initial_Value"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:ListValue">
-          <ownedListElement xsi:type="aadl2:StringLiteral" value="'0'"/>
-        </ownedValue>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.4/@ownedPropertyAssociation.1"/>
-    </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.26"/>
-  </featureInstance>
-  <featureInstance name="in028" category="abstractFeature">
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Data_Representation"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:NamedValue">
-          <namedValue xsi:type="aadl2:EnumerationLiteral" href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#/0/@ownedProperty.4/@ownedPropertyType/@ownedLiteral.4"/>
-        </ownedValue>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.11/@ownedPropertyAssociation.0"/>
-    </ownedPropertyAssociation>
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Initial_Value"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:ListValue">
-          <ownedListElement xsi:type="aadl2:StringLiteral" value="'0'"/>
-        </ownedValue>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.11/@ownedPropertyAssociation.2"/>
-    </ownedPropertyAssociation>
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Measurement_Unit"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:StringLiteral" value="'degree'"/>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.11/@ownedPropertyAssociation.1"/>
-    </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.27"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.21"/>
   </featureInstance>
   <featureInstance name="in029" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -933,7 +786,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.11/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.28"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.22"/>
   </featureInstance>
   <featureInstance name="in030" category="abstractFeature">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -954,7 +807,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.6/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.29"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.23"/>
   </featureInstance>
   <featureInstance name="out001" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -973,7 +826,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.30"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.24"/>
   </featureInstance>
   <featureInstance name="out002" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -992,7 +845,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.31"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.25"/>
   </featureInstance>
   <featureInstance name="out003" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1011,7 +864,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.32"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.26"/>
   </featureInstance>
   <featureInstance name="out004" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1030,7 +883,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.33"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.27"/>
   </featureInstance>
   <featureInstance name="out005" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1049,7 +902,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.34"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.28"/>
   </featureInstance>
   <featureInstance name="out006" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1068,7 +921,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.16/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.35"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.29"/>
   </featureInstance>
   <featureInstance name="out007" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1087,7 +940,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.16/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.36"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.30"/>
   </featureInstance>
   <featureInstance name="out008" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1106,7 +959,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.37"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.31"/>
   </featureInstance>
   <featureInstance name="out009" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1118,7 +971,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.0"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.38"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.32"/>
   </featureInstance>
   <featureInstance name="out010" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1137,7 +990,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.39"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.33"/>
   </featureInstance>
   <featureInstance name="out011" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1149,7 +1002,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.0"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.40"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.34"/>
   </featureInstance>
   <featureInstance name="out012" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1168,7 +1021,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.13/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.41"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.35"/>
   </featureInstance>
   <featureInstance name="out013" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1187,7 +1040,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.13/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.42"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.36"/>
   </featureInstance>
   <featureInstance name="out014" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1206,7 +1059,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.13/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.43"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.37"/>
   </featureInstance>
   <featureInstance name="out015" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1225,7 +1078,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.44"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.38"/>
   </featureInstance>
   <featureInstance name="out016" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1237,7 +1090,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.0"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.45"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.39"/>
   </featureInstance>
   <featureInstance name="out017" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1256,7 +1109,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.13/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.46"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.40"/>
   </featureInstance>
   <featureInstance name="out018" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1275,7 +1128,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.20/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.47"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.41"/>
   </featureInstance>
   <featureInstance name="out019" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1294,7 +1147,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.48"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.42"/>
   </featureInstance>
   <featureInstance name="out020" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1313,7 +1166,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.49"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.43"/>
   </featureInstance>
   <featureInstance name="out021" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1332,7 +1185,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.50"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.44"/>
   </featureInstance>
   <featureInstance name="out022" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1351,7 +1204,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.51"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.45"/>
   </featureInstance>
   <featureInstance name="out023" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1363,7 +1216,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.0"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.52"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.46"/>
   </featureInstance>
   <featureInstance name="out024" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1382,7 +1235,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.53"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.47"/>
   </featureInstance>
   <featureInstance name="out025" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1401,7 +1254,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.18/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.54"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.48"/>
   </featureInstance>
   <featureInstance name="out026" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1420,7 +1273,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.18/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.55"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.49"/>
   </featureInstance>
   <featureInstance name="out027" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1439,7 +1292,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.18/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.56"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.50"/>
   </featureInstance>
   <featureInstance name="out028" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1458,7 +1311,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.18/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.57"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.51"/>
   </featureInstance>
   <featureInstance name="out029" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1477,7 +1330,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.21/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.58"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.52"/>
   </featureInstance>
   <featureInstance name="out030" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1496,7 +1349,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.21/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.59"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.53"/>
   </featureInstance>
   <featureInstance name="out031" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1515,7 +1368,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.21/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.60"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.54"/>
   </featureInstance>
   <featureInstance name="out032" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1534,7 +1387,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.21/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.61"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.55"/>
   </featureInstance>
   <featureInstance name="out033" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1553,7 +1406,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.21/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.62"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.56"/>
   </featureInstance>
   <featureInstance name="out034" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1565,7 +1418,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.0"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.63"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.57"/>
   </featureInstance>
   <featureInstance name="out035" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1577,7 +1430,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.0"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.64"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.58"/>
   </featureInstance>
   <featureInstance name="out036" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1589,7 +1442,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.0"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.65"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.59"/>
   </featureInstance>
   <featureInstance name="out037" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1601,95 +1454,19 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.0"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.66"/>
-  </featureInstance>
-  <featureInstance name="out038" category="abstractFeature" direction="out">
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Data_Representation"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:NamedValue">
-          <namedValue xsi:type="aadl2:EnumerationLiteral" href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#/0/@ownedProperty.4/@ownedPropertyType/@ownedLiteral.4"/>
-        </ownedValue>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.0"/>
-    </ownedPropertyAssociation>
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Measurement_Unit"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:StringLiteral" value="'Nm'"/>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.1"/>
-    </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.67"/>
-  </featureInstance>
-  <featureInstance name="out039" category="abstractFeature" direction="out">
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Data_Representation"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:NamedValue">
-          <namedValue xsi:type="aadl2:EnumerationLiteral" href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#/0/@ownedProperty.4/@ownedPropertyType/@ownedLiteral.4"/>
-        </ownedValue>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.0"/>
-    </ownedPropertyAssociation>
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Measurement_Unit"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:StringLiteral" value="'Nm'"/>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.1"/>
-    </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.68"/>
-  </featureInstance>
-  <featureInstance name="out040" category="abstractFeature" direction="out">
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Data_Representation"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:NamedValue">
-          <namedValue xsi:type="aadl2:EnumerationLiteral" href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#/0/@ownedProperty.4/@ownedPropertyType/@ownedLiteral.4"/>
-        </ownedValue>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.0"/>
-    </ownedPropertyAssociation>
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Measurement_Unit"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:StringLiteral" value="'Nm'"/>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.1"/>
-    </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.69"/>
-  </featureInstance>
-  <featureInstance name="out041" category="abstractFeature" direction="out">
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Data_Representation"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:NamedValue">
-          <namedValue xsi:type="aadl2:EnumerationLiteral" href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#/0/@ownedProperty.4/@ownedPropertyType/@ownedLiteral.4"/>
-        </ownedValue>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.0"/>
-    </ownedPropertyAssociation>
-    <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
-      <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Measurement_Unit"/>
-      <ownedValue>
-        <ownedValue xsi:type="aadl2:StringLiteral" value="'Nm'"/>
-      </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.14/@ownedPropertyAssociation.1"/>
-    </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.70"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.60"/>
   </featureInstance>
   <featureInstance name="out042" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
       <property href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#Data_Model.Data_Representation"/>
       <ownedValue>
         <ownedValue xsi:type="aadl2:NamedValue">
-          <namedValue xsi:type="aadl2:EnumerationLiteral" href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#/0/@ownedProperty.4/@ownedPropertyType/@ownedLiteral.1"/>
+          <namedValue xsi:type="aadl2:EnumerationLiteral" href="../../../../plugin/org.osate.contribution.sei/resources/properties/Data_Model.aadl#/0/@ownedProperty.4/@ownedPropertyType/@ownedLiteral.4"/>
         </ownedValue>
       </ownedValue>
-      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.0"/>
+      <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.15/@ownedPropertyAssociation.0"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.71"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.61"/>
   </featureInstance>
   <featureInstance name="out043" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1701,7 +1478,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.15/@ownedPropertyAssociation.0"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.72"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.62"/>
   </featureInstance>
   <featureInstance name="out044" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1713,7 +1490,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedPropertyAssociation.0"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.73"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.63"/>
   </featureInstance>
   <featureInstance name="out045" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1732,7 +1509,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.17/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.74"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.64"/>
   </featureInstance>
   <featureInstance name="out046" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1751,7 +1528,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.17/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.75"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.65"/>
   </featureInstance>
   <featureInstance name="out047" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1770,7 +1547,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.17/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.76"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.66"/>
   </featureInstance>
   <featureInstance name="out048" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1789,7 +1566,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.20/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.77"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.67"/>
   </featureInstance>
   <featureInstance name="out049" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1808,7 +1585,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.19/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.78"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.68"/>
   </featureInstance>
   <featureInstance name="out050" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1827,7 +1604,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.21/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.79"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.69"/>
   </featureInstance>
   <featureInstance name="out051" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1839,7 +1616,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.15/@ownedPropertyAssociation.0"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.80"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.70"/>
   </featureInstance>
   <featureInstance name="out052" category="abstractFeature" direction="out">
     <ownedPropertyAssociation xsi:type="instance:PropertyAssociationInstance">
@@ -1858,7 +1635,7 @@
       </ownedValue>
       <propertyAssociation href="../../Properties/Custom_Types.aadl#/0/@ownedPublicSection/@ownedClassifier.19/@ownedPropertyAssociation.1"/>
     </ownedPropertyAssociation>
-    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.0/@ownedAbstractFeature.81"/>
+    <feature xsi:type="aadl2:AbstractFeature" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.2/@ownedAbstractFeature.71"/>
   </featureInstance>
   <componentInstance name="function01">
     <subcomponent xsi:type="aadl2:AbstractSubcomponent" href="../DynamicVehicle.aadl#/0/@ownedPublicSection/@ownedClassifier.3/@ownedAbstractSubcomponent.0"/>
